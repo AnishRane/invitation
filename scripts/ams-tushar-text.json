@@ -1,0 +1,15 @@
+[
+  { "id": "anish", "text": "अनीश", "encoded": "AanaISa" },
+  { "id": "bhargavi", "text": "भार्गवी", "encoded": "Baaga_vaI" },
+  { "id": "haldi", "text": "हळदी", "encoded": "hLadI" },
+  { "id": "wedding", "text": "शुभविवाह", "encoded": "SauBaivavaah" },
+  { "id": "ceremony", "text": "समारंभ", "encoded": "samaar/Ba" },
+  { "id": "celebrations", "text": "मंगल सोहळे", "encoded": "ma/gala saaehLae" },
+  { "id": "haldi-title", "text": "हळदी समारंभ", "encoded": "hLadI samaar/Ba" },
+  { "id": "wedding-title", "text": "शुभविवाह सोहळा", "encoded": "SauBaivavaah saaehLaa" },
+  { "id": "initial-a", "text": "अ", "encoded": "Aa" },
+  { "id": "initial-b", "text": "भ", "encoded": "Ba" },
+  { "id": "and", "text": "व", "encoded": "va" },
+  { "id": "monogram", "text": "अ व भ", "encoded": "Aa va Ba" },
+  { "id": "monogram-bride", "text": "भ व अ", "encoded": "Ba va Aa" }
+]
